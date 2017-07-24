@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:0,Star World HD
+udp://238.0.4.51:1234
+
+#EXTINF:0,OSN Ya Hala HD
+udp://238.0.5.51:1234
+
+#EXTINF:0,Ginx TV
+udp://238.0.6.51:1234
+
+#EXTINF:0,OSN Sports 4 HD
+udp://238.0.7.51:1234
+
+#EXTINF:0,Music Allhanen
+udp://238.2.66.51:1234
+
+#EXTINF:0,Al Arabiya
+udp://238.2.73.51:1234
+
+#EXTINF:0,Al-Arabiya Allhadath
+udp://238.2.75.51:1234
+
+#EXTINF:0,OSN YH Al Oula HD
+udp://238.0.0.52:1234
+
+#EXTINF:0,OSN Mov First HD +2h
+udp://238.0.1.52:1234
+
+#EXTINF:0,OSN Mov Com HD
+udp://238.0.2.52:1234
+
+#EXTINF:0,OSN Sp Action 1 HD
+udp://238.0.3.52:1234
+
+#EXTINF:0,OSN Mov Festival HD 
+udp://238.2.68.52:1234
+
+#EXTINF:0,OSN Movies Kids HD
+udp://238.2.69.52:1234
+
+#EXTINF:0,OSN Mov Action HD+2h
+udp://238.2.70.52:1234
+
+#EXTINF:0,OSN Sports 3 HD
+udp://238.2.71.52:1234
+
+#EXTINF:0,Sky News HD
+udp://238.0.4.53:1234
+
+#EXTINF:0,OSN Fight Network HD
+udp://238.0.5.53:1234
+
+#EXTINF:0,MTV LIVE HD
+udp://238.2.67.53:1234
+
+#EXTINF:0,OSN Movies Family HD
+udp://238.2.69.53:1234   
+
+#EXTINF:0,OSN WWE NETWORK HD
+udp://238.2.70.53:1234
+
+#EXTINF:0,OSN First HBO HD
+udp://238.2.71.53:1234
+
+#EXTINF:0,OSN Sports 5 HD
+udp://238.0.1.54:1234
+
+#EXTINF:0,H2 HD
+udp://238.0.2.54:1234
+
+#EXTINF:0,Discovery IDX HD
+udp://238.0.3.54:1234
+
+#EXTINF:0,Comedy Central HD
+udp://238.0.4.54:1234
+
+#EXTINF:0,History HD
+udp://238.2.65.54:1234
+
+#EXTINF:0,Discovery Science HD
+udp://238.2.66.54:1234
+
+#EXTINF:0,Disney Channel HD
+udp://238.2.67.54:1234
+
+#EXTINF:0,MBC Prosports 1
+udp://238.0.3.55:1234
+
+#EXTINF:0,MBC Prosports 2
+udp://238.0.4.55:1234
+
+#EXTINF:0,Prosports 3
+udp://238.0.5.55:1234
+
+#EXTINF:0,Prosports 4
+udp://238.0.6.55:1234
+
+#EXTINF:0,GOBX Mosaic
+udp://238.0.7.55:1234
+
+#EXTINF:0,GOBX Marhaba
+udp://238.0.8.55:1234
+
+#EXTINF:0,Nat Geo Wild HD
+udp://238.2.64.55:1234
+
+#EXTINF:0,Nat Geo People HD
+udp://238.2.65.55:1234
+
+#EXTINF:0,Nat Geo HD
+udp://238.2.66.55:1234
+
+#EXTINF:0,Star Movies HD
+udp://238.2.67.55:1234 
+
+#EXTINF:0,Fashion TV HD
+udp://238.0.0.56:1234
+
+#EXTINF:0,Food Network HD
+udp://238.0.1.56:1234
+
+#EXTINF:0,OSN Movies HD
+udp://238.0.2.56:1234
+
+#EXTINF:0,OSN Movies Thriller HD
+udp://238.0.3.56:1234
+
+#EXTINF:0,OSN Movies First HD
+udp://238.2.65.56:1234
+
+#EXTINF:0,OSN Movies Action HD
+udp://238.2.66.56:1234
+
+#EXTINF:0,OSN Series First HD
+udp://238.2.68.56:1234
+
+#EXTINF:0,OSN Sp Action 2 HD
+udp://238.2.69.56:1234
+
+#EXTINF:0,VH1
+udp://238.0.8.57:1234
+
+#EXTINF:0,E! HD
+udp://238.0.9.57:1234
+
+#EXTINF:0,Animal Planet HD
+udp://238.0.10.57:1234
+
+#EXTINF:0,BBCW
+udp://238.2.76.57:1234
+
+#EXTINF:0,Travel
+udp://238.0.0.58:1234
+
+#EXTINF:0,C&I
+udp://238.0.1.58:1234
+
+#EXTINF:0,Fine Living
+udp://238.0.2.58:1234
+
+#EXTINF:0,CNBC Europe
+udp://238.0.3.58:1234
+
+#EXTINF:0,Al Jazeera HD
+udp://238.2.64.58:1234
+
+#EXTINF:0,Al Jazeera English HD
+udp://238.2.65.58:1234
+
+#EXTINF:0,Al Jazeera Documentary HD
+udp://238.2.66.58:1234
+
+#EXTINF:0,OSN Movies +2h
+udp://238.0.9.59:1234
+
+#EXTINF:0,OSN Movie Thriller +2h
+udp://238.0.10.59:1234
+
+#EXTINF:0,OSN
+udp://238.0.11.59:1234
+
+#EXTINF:0,CNN
+udp://238.2.78.59:1234
+
+#EXTINF:0,OSN
+udp://238.0.11.60:1234
+
+#EXTINF:0,OSN News
+udp://238.0.13.60:1234
+
+#EXTINF:0,Disney XD
+udp://238.0.14.60:1234
+
+#EXTINF:0,OSN YH Al Oula +2h
+udp://238.0.15.60:1234
+
+#EXTINF:0,OSN Series Com +2h
+udp://238.0.25.60:1234
+
+#EXTINF:0,OSN Series Com
+udp://238.2.68.60:1234
+
+#EXTINF:0,OSN Series HD
+udp://238.2.69.60:1234
+
+#EXTINF:0,Sundance HD
+udp://238.2.70.60:1234
+
+#EXTINF:0,Paramount HD
+udp://238.2.71.60:1234                           
+                      
